@@ -1,0 +1,16 @@
+C:\Users\volos\source\repos\4_Roman\obj\Debug\net5.0\4_Roman.csprojAssemblyReference.cache
+C:\Users\volos\source\repos\4_Roman\obj\Debug\net5.0\4_Roman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volos\source\repos\4_Roman\obj\Debug\net5.0\4_Roman.AssemblyInfoInputs.cache
+C:\Users\volos\source\repos\4_Roman\obj\Debug\net5.0\4_Roman.AssemblyInfo.cs
+C:\Users\volos\source\repos\4_Roman\obj\Debug\net5.0\4_Roman.csproj.CoreCompileInputs.cache
+C:\Users\volos\source\repos\4_Roman\bin\Debug\net5.0\4_Roman.exe
+C:\Users\volos\source\repos\4_Roman\bin\Debug\net5.0\4_Roman.deps.json
+C:\Users\volos\source\repos\4_Roman\bin\Debug\net5.0\4_Roman.runtimeconfig.json
+C:\Users\volos\source\repos\4_Roman\bin\Debug\net5.0\4_Roman.runtimeconfig.dev.json
+C:\Users\volos\source\repos\4_Roman\bin\Debug\net5.0\4_Roman.dll
+C:\Users\volos\source\repos\4_Roman\bin\Debug\net5.0\ref\4_Roman.dll
+C:\Users\volos\source\repos\4_Roman\bin\Debug\net5.0\4_Roman.pdb
+C:\Users\volos\source\repos\4_Roman\obj\Debug\net5.0\4_Roman.dll
+C:\Users\volos\source\repos\4_Roman\obj\Debug\net5.0\ref\4_Roman.dll
+C:\Users\volos\source\repos\4_Roman\obj\Debug\net5.0\4_Roman.pdb
+C:\Users\volos\source\repos\4_Roman\obj\Debug\net5.0\4_Roman.genruntimeconfig.cache
